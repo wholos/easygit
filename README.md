@@ -1,2 +1,0 @@
-# easygit
-easygit - ease repository
